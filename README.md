@@ -10,10 +10,12 @@
 
 ## 단계
 * **요구사항 분석**: 같은 프로그램을 다시 만드는 것이기 때문에 넘어감
+* **Use Case**:
+ ![UseCase-UseCase Diagram](https://user-images.githubusercontent.com/99120199/224209982-5ab00a1c-eb3b-4f4d-8a1e-1320078f779e.jpg)
+
 * **시스템 설계**: 
 * **아키텍처 설계**: 
-* **시스템 설계**: 
-* **시스템 설계**: 
+
 
 ## 룰
 * Third Party 사용 금지
