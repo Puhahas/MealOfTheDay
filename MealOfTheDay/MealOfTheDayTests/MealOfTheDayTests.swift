@@ -1,14 +1,14 @@
 //
-//  motdTests.swift
-//  motdTests
+//  MealOfTheDayTests.swift
+//  MealOfTheDayTests
 //
-//  Created by Lena on 2023/03/08.
+//  Created by JiwKang on 2023/03/12.
 //
 
 import XCTest
-@testable import motd
+@testable import MealOfTheDay
 
-final class motdTests: XCTestCase {
+final class MealOfTheDayTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

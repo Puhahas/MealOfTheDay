@@ -7,66 +7,66 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BF58D42629B8516F00CC2D98 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF58D42529B8516F00CC2D98 /* AppDelegate.swift */; };
-		BF58D42829B8516F00CC2D98 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF58D42729B8516F00CC2D98 /* SceneDelegate.swift */; };
-		BF58D42A29B8516F00CC2D98 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF58D42929B8516F00CC2D98 /* ViewController.swift */; };
-		BF58D42D29B8516F00CC2D98 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF58D42B29B8516F00CC2D98 /* Main.storyboard */; };
-		BF58D42F29B8517100CC2D98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF58D42E29B8517100CC2D98 /* Assets.xcassets */; };
-		BF58D43229B8517100CC2D98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF58D43029B8517100CC2D98 /* LaunchScreen.storyboard */; };
-		BF58D43D29B8517100CC2D98 /* motdTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF58D43C29B8517100CC2D98 /* motdTests.swift */; };
-		BF58D44729B8517100CC2D98 /* motdUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF58D44629B8517100CC2D98 /* motdUITests.swift */; };
-		BF58D44929B8517100CC2D98 /* motdUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF58D44829B8517100CC2D98 /* motdUITestsLaunchTests.swift */; };
+		CEB053C629BDB13400D59561 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB053C529BDB13400D59561 /* AppDelegate.swift */; };
+		CEB053C829BDB13400D59561 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB053C729BDB13400D59561 /* SceneDelegate.swift */; };
+		CEB053CA29BDB13400D59561 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB053C929BDB13400D59561 /* ViewController.swift */; };
+		CEB053CD29BDB13400D59561 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEB053CB29BDB13400D59561 /* Main.storyboard */; };
+		CEB053CF29BDB13500D59561 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEB053CE29BDB13500D59561 /* Assets.xcassets */; };
+		CEB053D229BDB13500D59561 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEB053D029BDB13500D59561 /* LaunchScreen.storyboard */; };
+		CEB053DD29BDB13500D59561 /* MealOfTheDayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB053DC29BDB13500D59561 /* MealOfTheDayTests.swift */; };
+		CEB053E729BDB13500D59561 /* MealOfTheDayUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB053E629BDB13500D59561 /* MealOfTheDayUITests.swift */; };
+		CEB053E929BDB13500D59561 /* MealOfTheDayUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB053E829BDB13500D59561 /* MealOfTheDayUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		BF58D43929B8517100CC2D98 /* PBXContainerItemProxy */ = {
+		CEB053D929BDB13500D59561 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BF58D41A29B8516F00CC2D98 /* Project object */;
+			containerPortal = CEB053BA29BDB13400D59561 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = BF58D42129B8516F00CC2D98;
-			remoteInfo = motd;
+			remoteGlobalIDString = CEB053C129BDB13400D59561;
+			remoteInfo = MealOfTheDay;
 		};
-		BF58D44329B8517100CC2D98 /* PBXContainerItemProxy */ = {
+		CEB053E329BDB13500D59561 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BF58D41A29B8516F00CC2D98 /* Project object */;
+			containerPortal = CEB053BA29BDB13400D59561 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = BF58D42129B8516F00CC2D98;
-			remoteInfo = motd;
+			remoteGlobalIDString = CEB053C129BDB13400D59561;
+			remoteInfo = MealOfTheDay;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BF58D42229B8516F00CC2D98 /* motd.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = motd.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BF58D42529B8516F00CC2D98 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		BF58D42729B8516F00CC2D98 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		BF58D42929B8516F00CC2D98 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		BF58D42C29B8516F00CC2D98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		BF58D42E29B8517100CC2D98 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		BF58D43129B8517100CC2D98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		BF58D43329B8517100CC2D98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BF58D43829B8517100CC2D98 /* motdTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = motdTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		BF58D43C29B8517100CC2D98 /* motdTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = motdTests.swift; sourceTree = "<group>"; };
-		BF58D44229B8517100CC2D98 /* motdUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = motdUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		BF58D44629B8517100CC2D98 /* motdUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = motdUITests.swift; sourceTree = "<group>"; };
-		BF58D44829B8517100CC2D98 /* motdUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = motdUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CEB053C229BDB13400D59561 /* MealOfTheDay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MealOfTheDay.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEB053C529BDB13400D59561 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		CEB053C729BDB13400D59561 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		CEB053C929BDB13400D59561 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CEB053CC29BDB13400D59561 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CEB053CE29BDB13500D59561 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CEB053D129BDB13500D59561 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CEB053D329BDB13500D59561 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEB053D829BDB13500D59561 /* MealOfTheDayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MealOfTheDayTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEB053DC29BDB13500D59561 /* MealOfTheDayTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealOfTheDayTests.swift; sourceTree = "<group>"; };
+		CEB053E229BDB13500D59561 /* MealOfTheDayUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MealOfTheDayUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEB053E629BDB13500D59561 /* MealOfTheDayUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealOfTheDayUITests.swift; sourceTree = "<group>"; };
+		CEB053E829BDB13500D59561 /* MealOfTheDayUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealOfTheDayUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BF58D41F29B8516F00CC2D98 /* Frameworks */ = {
+		CEB053BF29BDB13400D59561 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BF58D43529B8517100CC2D98 /* Frameworks */ = {
+		CEB053D529BDB13500D59561 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BF58D43F29B8517100CC2D98 /* Frameworks */ = {
+		CEB053DF29BDB13500D59561 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -76,137 +76,137 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		BF58D41929B8516F00CC2D98 = {
+		CEB053B929BDB13400D59561 = {
 			isa = PBXGroup;
 			children = (
-				BF58D42429B8516F00CC2D98 /* motd */,
-				BF58D43B29B8517100CC2D98 /* motdTests */,
-				BF58D44529B8517100CC2D98 /* motdUITests */,
-				BF58D42329B8516F00CC2D98 /* Products */,
+				CEB053C429BDB13400D59561 /* MealOfTheDay */,
+				CEB053DB29BDB13500D59561 /* MealOfTheDayTests */,
+				CEB053E529BDB13500D59561 /* MealOfTheDayUITests */,
+				CEB053C329BDB13400D59561 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		BF58D42329B8516F00CC2D98 /* Products */ = {
+		CEB053C329BDB13400D59561 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BF58D42229B8516F00CC2D98 /* motd.app */,
-				BF58D43829B8517100CC2D98 /* motdTests.xctest */,
-				BF58D44229B8517100CC2D98 /* motdUITests.xctest */,
+				CEB053C229BDB13400D59561 /* MealOfTheDay.app */,
+				CEB053D829BDB13500D59561 /* MealOfTheDayTests.xctest */,
+				CEB053E229BDB13500D59561 /* MealOfTheDayUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BF58D42429B8516F00CC2D98 /* motd */ = {
+		CEB053C429BDB13400D59561 /* MealOfTheDay */ = {
 			isa = PBXGroup;
 			children = (
-				BF58D42529B8516F00CC2D98 /* AppDelegate.swift */,
-				BF58D42729B8516F00CC2D98 /* SceneDelegate.swift */,
-				BF58D42929B8516F00CC2D98 /* ViewController.swift */,
-				BF58D42B29B8516F00CC2D98 /* Main.storyboard */,
-				BF58D42E29B8517100CC2D98 /* Assets.xcassets */,
-				BF58D43029B8517100CC2D98 /* LaunchScreen.storyboard */,
-				BF58D43329B8517100CC2D98 /* Info.plist */,
+				CEB053C529BDB13400D59561 /* AppDelegate.swift */,
+				CEB053C729BDB13400D59561 /* SceneDelegate.swift */,
+				CEB053C929BDB13400D59561 /* ViewController.swift */,
+				CEB053CB29BDB13400D59561 /* Main.storyboard */,
+				CEB053CE29BDB13500D59561 /* Assets.xcassets */,
+				CEB053D029BDB13500D59561 /* LaunchScreen.storyboard */,
+				CEB053D329BDB13500D59561 /* Info.plist */,
 			);
-			path = motd;
+			path = MealOfTheDay;
 			sourceTree = "<group>";
 		};
-		BF58D43B29B8517100CC2D98 /* motdTests */ = {
+		CEB053DB29BDB13500D59561 /* MealOfTheDayTests */ = {
 			isa = PBXGroup;
 			children = (
-				BF58D43C29B8517100CC2D98 /* motdTests.swift */,
+				CEB053DC29BDB13500D59561 /* MealOfTheDayTests.swift */,
 			);
-			path = motdTests;
+			path = MealOfTheDayTests;
 			sourceTree = "<group>";
 		};
-		BF58D44529B8517100CC2D98 /* motdUITests */ = {
+		CEB053E529BDB13500D59561 /* MealOfTheDayUITests */ = {
 			isa = PBXGroup;
 			children = (
-				BF58D44629B8517100CC2D98 /* motdUITests.swift */,
-				BF58D44829B8517100CC2D98 /* motdUITestsLaunchTests.swift */,
+				CEB053E629BDB13500D59561 /* MealOfTheDayUITests.swift */,
+				CEB053E829BDB13500D59561 /* MealOfTheDayUITestsLaunchTests.swift */,
 			);
-			path = motdUITests;
+			path = MealOfTheDayUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BF58D42129B8516F00CC2D98 /* motd */ = {
+		CEB053C129BDB13400D59561 /* MealOfTheDay */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BF58D44C29B8517100CC2D98 /* Build configuration list for PBXNativeTarget "motd" */;
+			buildConfigurationList = CEB053EC29BDB13500D59561 /* Build configuration list for PBXNativeTarget "MealOfTheDay" */;
 			buildPhases = (
-				BF58D41E29B8516F00CC2D98 /* Sources */,
-				BF58D41F29B8516F00CC2D98 /* Frameworks */,
-				BF58D42029B8516F00CC2D98 /* Resources */,
+				CEB053BE29BDB13400D59561 /* Sources */,
+				CEB053BF29BDB13400D59561 /* Frameworks */,
+				CEB053C029BDB13400D59561 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = motd;
-			productName = motd;
-			productReference = BF58D42229B8516F00CC2D98 /* motd.app */;
+			name = MealOfTheDay;
+			productName = MealOfTheDay;
+			productReference = CEB053C229BDB13400D59561 /* MealOfTheDay.app */;
 			productType = "com.apple.product-type.application";
 		};
-		BF58D43729B8517100CC2D98 /* motdTests */ = {
+		CEB053D729BDB13500D59561 /* MealOfTheDayTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BF58D44F29B8517100CC2D98 /* Build configuration list for PBXNativeTarget "motdTests" */;
+			buildConfigurationList = CEB053EF29BDB13500D59561 /* Build configuration list for PBXNativeTarget "MealOfTheDayTests" */;
 			buildPhases = (
-				BF58D43429B8517100CC2D98 /* Sources */,
-				BF58D43529B8517100CC2D98 /* Frameworks */,
-				BF58D43629B8517100CC2D98 /* Resources */,
+				CEB053D429BDB13500D59561 /* Sources */,
+				CEB053D529BDB13500D59561 /* Frameworks */,
+				CEB053D629BDB13500D59561 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				BF58D43A29B8517100CC2D98 /* PBXTargetDependency */,
+				CEB053DA29BDB13500D59561 /* PBXTargetDependency */,
 			);
-			name = motdTests;
-			productName = motdTests;
-			productReference = BF58D43829B8517100CC2D98 /* motdTests.xctest */;
+			name = MealOfTheDayTests;
+			productName = MealOfTheDayTests;
+			productReference = CEB053D829BDB13500D59561 /* MealOfTheDayTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		BF58D44129B8517100CC2D98 /* motdUITests */ = {
+		CEB053E129BDB13500D59561 /* MealOfTheDayUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BF58D45229B8517100CC2D98 /* Build configuration list for PBXNativeTarget "motdUITests" */;
+			buildConfigurationList = CEB053F229BDB13500D59561 /* Build configuration list for PBXNativeTarget "MealOfTheDayUITests" */;
 			buildPhases = (
-				BF58D43E29B8517100CC2D98 /* Sources */,
-				BF58D43F29B8517100CC2D98 /* Frameworks */,
-				BF58D44029B8517100CC2D98 /* Resources */,
+				CEB053DE29BDB13500D59561 /* Sources */,
+				CEB053DF29BDB13500D59561 /* Frameworks */,
+				CEB053E029BDB13500D59561 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				BF58D44429B8517100CC2D98 /* PBXTargetDependency */,
+				CEB053E429BDB13500D59561 /* PBXTargetDependency */,
 			);
-			name = motdUITests;
-			productName = motdUITests;
-			productReference = BF58D44229B8517100CC2D98 /* motdUITests.xctest */;
+			name = MealOfTheDayUITests;
+			productName = MealOfTheDayUITests;
+			productReference = CEB053E229BDB13500D59561 /* MealOfTheDayUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BF58D41A29B8516F00CC2D98 /* Project object */ = {
+		CEB053BA29BDB13400D59561 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
-					BF58D42129B8516F00CC2D98 = {
+					CEB053C129BDB13400D59561 = {
 						CreatedOnToolsVersion = 14.2;
 					};
-					BF58D43729B8517100CC2D98 = {
+					CEB053D729BDB13500D59561 = {
 						CreatedOnToolsVersion = 14.2;
-						TestTargetID = BF58D42129B8516F00CC2D98;
+						TestTargetID = CEB053C129BDB13400D59561;
 					};
-					BF58D44129B8517100CC2D98 = {
+					CEB053E129BDB13500D59561 = {
 						CreatedOnToolsVersion = 14.2;
-						TestTargetID = BF58D42129B8516F00CC2D98;
+						TestTargetID = CEB053C129BDB13400D59561;
 					};
 				};
 			};
-			buildConfigurationList = BF58D41D29B8516F00CC2D98 /* Build configuration list for PBXProject "motd" */;
+			buildConfigurationList = CEB053BD29BDB13400D59561 /* Build configuration list for PBXProject "MealOfTheDay" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -214,37 +214,37 @@
 				en,
 				Base,
 			);
-			mainGroup = BF58D41929B8516F00CC2D98;
-			productRefGroup = BF58D42329B8516F00CC2D98 /* Products */;
+			mainGroup = CEB053B929BDB13400D59561;
+			productRefGroup = CEB053C329BDB13400D59561 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BF58D42129B8516F00CC2D98 /* motd */,
-				BF58D43729B8517100CC2D98 /* motdTests */,
-				BF58D44129B8517100CC2D98 /* motdUITests */,
+				CEB053C129BDB13400D59561 /* MealOfTheDay */,
+				CEB053D729BDB13500D59561 /* MealOfTheDayTests */,
+				CEB053E129BDB13500D59561 /* MealOfTheDayUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		BF58D42029B8516F00CC2D98 /* Resources */ = {
+		CEB053C029BDB13400D59561 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BF58D43229B8517100CC2D98 /* LaunchScreen.storyboard in Resources */,
-				BF58D42F29B8517100CC2D98 /* Assets.xcassets in Resources */,
-				BF58D42D29B8516F00CC2D98 /* Main.storyboard in Resources */,
+				CEB053D229BDB13500D59561 /* LaunchScreen.storyboard in Resources */,
+				CEB053CF29BDB13500D59561 /* Assets.xcassets in Resources */,
+				CEB053CD29BDB13400D59561 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BF58D43629B8517100CC2D98 /* Resources */ = {
+		CEB053D629BDB13500D59561 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BF58D44029B8517100CC2D98 /* Resources */ = {
+		CEB053E029BDB13500D59561 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -254,61 +254,61 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		BF58D41E29B8516F00CC2D98 /* Sources */ = {
+		CEB053BE29BDB13400D59561 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BF58D42A29B8516F00CC2D98 /* ViewController.swift in Sources */,
-				BF58D42629B8516F00CC2D98 /* AppDelegate.swift in Sources */,
-				BF58D42829B8516F00CC2D98 /* SceneDelegate.swift in Sources */,
+				CEB053CA29BDB13400D59561 /* ViewController.swift in Sources */,
+				CEB053C629BDB13400D59561 /* AppDelegate.swift in Sources */,
+				CEB053C829BDB13400D59561 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BF58D43429B8517100CC2D98 /* Sources */ = {
+		CEB053D429BDB13500D59561 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BF58D43D29B8517100CC2D98 /* motdTests.swift in Sources */,
+				CEB053DD29BDB13500D59561 /* MealOfTheDayTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BF58D43E29B8517100CC2D98 /* Sources */ = {
+		CEB053DE29BDB13500D59561 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BF58D44929B8517100CC2D98 /* motdUITestsLaunchTests.swift in Sources */,
-				BF58D44729B8517100CC2D98 /* motdUITests.swift in Sources */,
+				CEB053E729BDB13500D59561 /* MealOfTheDayUITests.swift in Sources */,
+				CEB053E929BDB13500D59561 /* MealOfTheDayUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		BF58D43A29B8517100CC2D98 /* PBXTargetDependency */ = {
+		CEB053DA29BDB13500D59561 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BF58D42129B8516F00CC2D98 /* motd */;
-			targetProxy = BF58D43929B8517100CC2D98 /* PBXContainerItemProxy */;
+			target = CEB053C129BDB13400D59561 /* MealOfTheDay */;
+			targetProxy = CEB053D929BDB13500D59561 /* PBXContainerItemProxy */;
 		};
-		BF58D44429B8517100CC2D98 /* PBXTargetDependency */ = {
+		CEB053E429BDB13500D59561 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BF58D42129B8516F00CC2D98 /* motd */;
-			targetProxy = BF58D44329B8517100CC2D98 /* PBXContainerItemProxy */;
+			target = CEB053C129BDB13400D59561 /* MealOfTheDay */;
+			targetProxy = CEB053E329BDB13500D59561 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		BF58D42B29B8516F00CC2D98 /* Main.storyboard */ = {
+		CEB053CB29BDB13400D59561 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				BF58D42C29B8516F00CC2D98 /* Base */,
+				CEB053CC29BDB13400D59561 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		BF58D43029B8517100CC2D98 /* LaunchScreen.storyboard */ = {
+		CEB053D029BDB13500D59561 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				BF58D43129B8517100CC2D98 /* Base */,
+				CEB053D129BDB13500D59561 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -316,7 +316,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		BF58D44A29B8517100CC2D98 /* Debug */ = {
+		CEB053EA29BDB13500D59561 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -376,7 +376,7 @@
 			};
 			name = Debug;
 		};
-		BF58D44B29B8517100CC2D98 /* Release */ = {
+		CEB053EB29BDB13500D59561 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -430,16 +430,16 @@
 			};
 			name = Release;
 		};
-		BF58D44D29B8517100CC2D98 /* Debug */ = {
+		CEB053ED29BDB13500D59561 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = D9CAJN27UH;
+				DEVELOPMENT_TEAM = 744MUUC77P;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = motd/Info.plist;
+				INFOPLIST_FILE = MealOfTheDay/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -450,7 +450,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.puhaha.second.motd;
+				PRODUCT_BUNDLE_IDENTIFIER = com.puhaha.MealOfTheDay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -458,16 +458,16 @@
 			};
 			name = Debug;
 		};
-		BF58D44E29B8517100CC2D98 /* Release */ = {
+		CEB053EE29BDB13500D59561 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = D9CAJN27UH;
+				DEVELOPMENT_TEAM = 744MUUC77P;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = motd/Info.plist;
+				INFOPLIST_FILE = MealOfTheDay/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -478,7 +478,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.puhaha.second.motd;
+				PRODUCT_BUNDLE_IDENTIFIER = com.puhaha.MealOfTheDay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -486,122 +486,122 @@
 			};
 			name = Release;
 		};
-		BF58D45029B8517100CC2D98 /* Debug */ = {
+		CEB053F029BDB13500D59561 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = D9CAJN27UH;
+				DEVELOPMENT_TEAM = 744MUUC77P;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.puhaha.second.motdTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.puhaha.MealOfTheDayTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/motd.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/motd";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MealOfTheDay.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MealOfTheDay";
 			};
 			name = Debug;
 		};
-		BF58D45129B8517100CC2D98 /* Release */ = {
+		CEB053F129BDB13500D59561 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = D9CAJN27UH;
+				DEVELOPMENT_TEAM = 744MUUC77P;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.puhaha.second.motdTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.puhaha.MealOfTheDayTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/motd.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/motd";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MealOfTheDay.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MealOfTheDay";
 			};
 			name = Release;
 		};
-		BF58D45329B8517100CC2D98 /* Debug */ = {
+		CEB053F329BDB13500D59561 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = D9CAJN27UH;
+				DEVELOPMENT_TEAM = 744MUUC77P;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.puhaha.second.motdUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.puhaha.MealOfTheDayUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = motd;
+				TEST_TARGET_NAME = MealOfTheDay;
 			};
 			name = Debug;
 		};
-		BF58D45429B8517100CC2D98 /* Release */ = {
+		CEB053F429BDB13500D59561 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = D9CAJN27UH;
+				DEVELOPMENT_TEAM = 744MUUC77P;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.puhaha.second.motdUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.puhaha.MealOfTheDayUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = motd;
+				TEST_TARGET_NAME = MealOfTheDay;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BF58D41D29B8516F00CC2D98 /* Build configuration list for PBXProject "motd" */ = {
+		CEB053BD29BDB13400D59561 /* Build configuration list for PBXProject "MealOfTheDay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BF58D44A29B8517100CC2D98 /* Debug */,
-				BF58D44B29B8517100CC2D98 /* Release */,
+				CEB053EA29BDB13500D59561 /* Debug */,
+				CEB053EB29BDB13500D59561 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BF58D44C29B8517100CC2D98 /* Build configuration list for PBXNativeTarget "motd" */ = {
+		CEB053EC29BDB13500D59561 /* Build configuration list for PBXNativeTarget "MealOfTheDay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BF58D44D29B8517100CC2D98 /* Debug */,
-				BF58D44E29B8517100CC2D98 /* Release */,
+				CEB053ED29BDB13500D59561 /* Debug */,
+				CEB053EE29BDB13500D59561 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BF58D44F29B8517100CC2D98 /* Build configuration list for PBXNativeTarget "motdTests" */ = {
+		CEB053EF29BDB13500D59561 /* Build configuration list for PBXNativeTarget "MealOfTheDayTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BF58D45029B8517100CC2D98 /* Debug */,
-				BF58D45129B8517100CC2D98 /* Release */,
+				CEB053F029BDB13500D59561 /* Debug */,
+				CEB053F129BDB13500D59561 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BF58D45229B8517100CC2D98 /* Build configuration list for PBXNativeTarget "motdUITests" */ = {
+		CEB053F229BDB13500D59561 /* Build configuration list for PBXNativeTarget "MealOfTheDayUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BF58D45329B8517100CC2D98 /* Debug */,
-				BF58D45429B8517100CC2D98 /* Release */,
+				CEB053F329BDB13500D59561 /* Debug */,
+				CEB053F429BDB13500D59561 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BF58D41A29B8516F00CC2D98 /* Project object */;
+	rootObject = CEB053BA29BDB13400D59561 /* Project object */;
 }

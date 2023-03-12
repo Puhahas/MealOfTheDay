@@ -1,13 +1,13 @@
 //
-//  motdUITestsLaunchTests.swift
-//  motdUITests
+//  MealOfTheDayUITestsLaunchTests.swift
+//  MealOfTheDayUITests
 //
-//  Created by Lena on 2023/03/08.
+//  Created by JiwKang on 2023/03/12.
 //
 
 import XCTest
 
-final class motdUITestsLaunchTests: XCTestCase {
+final class MealOfTheDayUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
